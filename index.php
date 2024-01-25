@@ -6,6 +6,8 @@
     <title>Git</title>
 </head>
 <body>
-    
+    <?php
+     echo"Salut";
+    ?>
 </body>
 </html>
